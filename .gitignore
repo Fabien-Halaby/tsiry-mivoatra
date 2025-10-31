@@ -1,0 +1,39 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Environnements
+.env
+.env.local
+.env.*.local
+
+# Python (général)
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+venv/
+.env/
+
+# Node (général)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build
+dist/
+build/
+*.tmp
+*.temp
